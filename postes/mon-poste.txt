@@ -1,0 +1,5 @@
+poste :jbs-Latitude-3540
+interface :enp1s0ip
+ip/masque :172.16.60.11/24
+passerelle :172.16.60.253
+ping passerelle :OK
